@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/echoprintLib/build/
+/echoprintLib/build/intermediates/javac/debug/classes/
+/echoprintTest/build/
+/echoprintTest/build/intermediates/javac/debug/classes/
